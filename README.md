@@ -11,10 +11,11 @@ Facebook's [Hackathon](https://www.facebook.com/hackathon/) at [Facebook Hack Me
 
 Who uses checksums? We all know we should.
 
-A range of unused tools exist for verifying file integrity that suffer from poor adoption, are difficult to use and aren't human-friendly.
-Humans are inherently good at remembering interesting information, be it stories, people and generally benefit from context. Humans also have the ability to remember faces extremely well, with many of us experiencing false-positives or pareidolia - seeing faces as a part of inanimate objects.
+A range of tools exist for verifying file integrity, yet they remain unused due to a weak user-friendly interface. 
 
-With the advent of hyper-realistic Style transfer GAN's like Nvidia's StyleGAN, we can generate something that our brains believe is a real person, and make use of that human-hardware accelerated memorisation and let people compare between hashes they've seen even weeks apart with only a few quick glances.
+Humans are inherently good at remembering interesting information such as stories, and they greatly benefit from context alone. Moreover, humans have the ability to remember faces well, with many of us experiencing false-positives or pareidolia - a phenomenon wherein faces are seen as part of inanimate objects.
+
+With the advent of hyper-realistic style transfer GAN's like Nvidia's StyleGAN, we can generate something that our brains can easily recognise. We can utilise human-hardware accelerated memorisation and let people compare hashes that they've seen even weeks apart with only a few quick glances and without the hassle of recalling long alpha-numeric strings.
 
 ## Our Stack
    - [Nvidia StyleGAN](https://stylegan.xyz/code)
